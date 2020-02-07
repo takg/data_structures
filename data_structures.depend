@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1572006151 source:d:\programming\github\cpp\cpp0x\data_structures\main.cpp
+	<iostream>
+	"SingleLinkedList.h"
+	"DoubleLinkedList.h"
+	"Vector.h"
+	"Stack.h"
+	"Queue.h"
+
+1571926264 d:\programming\github\cpp\cpp0x\data_structures\include\singlelinkedlist.h
+
+1571746051 d:\programming\github\cpp\cpp0x\smart_pointer\smart_pointer\include\shared_ptr_ver_1.h
+
+1571926772 d:\programming\github\cpp\cpp0x\data_structures\include\doublelinkedlist.h
+
+1571975794 d:\programming\github\cpp\cpp0x\data_structures\include\vector.h
+
+1572005062 d:\programming\github\cpp\cpp0x\data_structures\include\stack.h
+	"SingleLinkedList.h"
+
+1572005958 d:\programming\github\cpp\cpp0x\data_structures\include\queue.h
+	"SingleLinkedList.h"
+
